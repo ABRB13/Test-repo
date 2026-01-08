@@ -19,6 +19,10 @@ def walk(steps):
 
 walk(10)
 
+#sr.kjgnslfkgndfslkng
+#aeknflsdkf
+#sdknflsdkfn
+#hskdfhlfsh
 
 #recursive function
 
