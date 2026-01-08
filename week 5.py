@@ -19,6 +19,11 @@ def walk(steps):
 
 walk(10)
 
+#szlkfslkdjgf
+#sdlkflsdf
+#dsfgdfslk
+#ngdflgn
+
 #sr.kjgnslfkgndfslkng
 #aeknflsdkf
 #sdknflsdkfn
